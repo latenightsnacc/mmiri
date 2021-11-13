@@ -1,4 +1,4 @@
-const download_receipt = () => {
+const download_receipt () => {
     return (
         <div>
             <h1>DOWNLOAD RECEIPT</h1>

@@ -1,3 +1,0 @@
-const payment-gateway = () => {
-    retun
-}
